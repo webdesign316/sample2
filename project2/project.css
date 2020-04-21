@@ -1,0 +1,58 @@
+body{
+background-color:lightyellow;
+}
+#face{
+background-color:darkblue;
+color:white;
+text-align:center;
+padding:5px;
+}
+main form input{
+width:100%;
+text-align:center;
+
+}
+form button{
+width:100%;
+background-color:darkblue;
+color:white;
+padding:5px 5px;
+}
+section{
+padding-top:15px;
+}
+#log{
+padding-top:20px;
+}
+#or {
+text-align:center;
+}
+#cna{
+width:40%;
+background-color:limegreen;
+color:white;
+padding:5px 5px;
+margin-left:32%;
+margin-top:10px;
+}
+#fp {
+color:blue;
+text-align:center;
+}
+p{
+padding:5px;
+font-size:12px;
+}
+.language{
+color:white;
+padding:2px;
+background-color:black;
+font-size:14px;
+}
+.language #last{
+text-align:center;
+}
+footer{
+font-size:15px;
+padding-top:20%;
+}
